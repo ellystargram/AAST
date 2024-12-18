@@ -1,0 +1,24 @@
+\t (00:00:03) allegro 17.2 S047 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Mon Nov 27 10:52:00 2023
+\t (00:00:03)         Host=INTECH12 User=user Pid=7792 CPUs=8
+\t (00:00:03) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged COLHEADER10
+\d (00:00:05) Design opened: C:/Users/user/Downloads/SCHM/COLHEADER10.dra
+\t (00:00:05) Grids are drawn 400, 400 apart for enhanced viewability.
+\i (00:00:05) trapsize 5
+\i (00:00:06) trapsize 6
+\i (00:00:06) trapsize 5
+\i (00:00:06) trapsize 4
+\i (00:00:06) trapsize 4
+\i (00:00:06) generaledit 
+\i (00:00:07) open 
+\i (00:00:24) fillin "C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols/cap196.dra"
+\i (00:00:24) cd "C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols"
+\t (00:00:24) Opening existing design...
+\i (00:00:24) trapsize 4
+\t (00:00:24) Grids are drawn 50, 50 apart for enhanced viewability.
+\i (00:00:24) trapsize 7
+\t (00:00:24)     Journal end - Mon Nov 27 10:52:22 2023

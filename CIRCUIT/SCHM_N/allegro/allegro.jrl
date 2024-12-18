@@ -1,0 +1,102 @@
+\t (00:00:04) allegro 17.2 S038 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Sat Dec 09 16:44:59 2023
+\t (00:00:04)         Host=GIO-PC User=6gioc Pid=10928 CPUs=12
+\t (00:00:04) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\i (00:00:07) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "AAST_BOARD V1"
+\d (00:00:07) Design opened: C:/Users/6gioc/OneDrive/AAST/CIRCUIT/SCHM_N/allegro/AAST_BOARD V1.brd
+\i (00:00:07) trapsize 6880
+\i (00:00:07) trapsize 7072
+\i (00:00:07) trapsize 6880
+\i (00:00:07) trapsize 7292
+\i (00:00:07) generaledit 
+\i (00:00:09) zoom out 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out 68.7227 49.4610
+\i (00:00:09) trapsize 13926
+\i (00:00:11) plot setup 
+\i (00:00:18) setwindow form.fpfileplotsetup
+\i (00:00:18) FORM fpfileplotsetup fpplotsheetcontents YES 
+\i (00:00:24) FORM fpfileplotsetup fpplotautocenter YES 
+\i (00:00:26) FORM fpfileplotsetup fpplotscreencontents YES 
+\i (00:00:27) FORM fpfileplotsetup done  
+\i (00:00:27) setwindow pcb
+\i (00:00:27) generaledit 
+\i (00:00:30) plot 
+\i (00:00:31) plotwint initialize "Microsoft Print to PDF"
+\i (00:00:31) plotwint orientation 2
+\i (00:00:31) plotwint papername "A4"
+\i (00:00:31) plotwint copies 1
+\i (00:00:31) plotwint defaultsource 15
+\i (00:00:31) plotwint printquality 600
+\i (00:00:31) plotwint color 2
+\i (00:00:31) plotwint execute
+\i (00:00:39) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: TOP"
+\i (00:00:42) plot 
+\i (00:00:43) plotwint initialize "Microsoft Print to PDF"
+\i (00:00:43) plotwint execute
+\i (00:00:47) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BOTTOM"
+\i (00:01:02) plot 
+\i (00:01:03) plotwint initialize "Microsoft Print to PDF"
+\i (00:01:03) plotwint execute
+\i (00:01:05) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: TOP"
+\i (00:01:08) plot 
+\i (00:01:09) plotwint initialize "Microsoft Print to PDF"
+\i (00:01:09) plotwint execute
+\i (00:01:18) pick grid -56.2732 98.3024
+\t (00:01:18) last pick:  -55.8800 97.7900
+\i (00:01:22) plot setup 
+\i (00:01:23) setwindow form.fpfileplotsetup
+\i (00:01:23) FORM fpfileplotsetup fpplotsheetcontents YES 
+\i (00:01:23) FORM fpfileplotsetup done  
+\i (00:01:23) setwindow pcb
+\i (00:01:23) generaledit 
+\i (00:01:26) plot 
+\i (00:01:27) plotwint initialize "Microsoft Print to PDF"
+\i (00:01:27) plotwint execute
+\i (00:01:40) zoom in 1 
+\i (00:01:40) setwindow pcb
+\i (00:01:40) zoom in 100.2520 32.5729
+\i (00:01:40) trapsize 6963
+\i (00:01:41) zoom out 1 
+\i (00:01:41) setwindow pcb
+\i (00:01:41) zoom out 100.2520 32.5730
+\i (00:01:41) trapsize 13926
+\i (00:01:41) zoom in 1 
+\i (00:01:41) setwindow pcb
+\i (00:01:41) zoom in 100.2520 32.5729
+\i (00:01:41) trapsize 6963
+\i (00:01:42) zoom out 1 
+\i (00:01:42) setwindow pcb
+\i (00:01:42) zoom out 147.1817 9.3170
+\i (00:01:42) trapsize 13926
+\i (00:01:57) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BOTTOM"
+\i (00:02:00) plot 
+\i (00:02:01) plotwint initialize "Microsoft Print to PDF"
+\i (00:02:01) plotwint execute
+\i (00:02:08) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: DRD"
+\i (00:02:10) plot 
+\i (00:02:11) plotwint initialize "Microsoft Print to PDF"
+\i (00:02:11) plotwint execute
+\i (00:02:18) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SMB"
+\i (00:02:20) plot 
+\i (00:02:21) plotwint initialize "Microsoft Print to PDF"
+\i (00:02:21) plotwint execute
+\i (00:02:25) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SMT"
+\i (00:02:28) save_as 
+\i (00:02:29) fillin "menu_cancel"
+\i (00:02:29) generaledit 
+\i (00:02:30) plot 
+\i (00:02:31) plotwint initialize "Microsoft Print to PDF"
+\i (00:02:31) plotwint execute
+\i (00:02:38) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SST"
+\i (00:02:40) plot 
+\i (00:02:41) plotwint initialize "Microsoft Print to PDF"
+\i (00:02:41) plotwint execute
+\i (00:03:05) save 
+\i (00:03:06) fillin yes 
+\i (00:03:07) generaledit 
+\i (00:03:07) exit 
+\t (00:03:07)     Journal end - Sat Dec 09 16:48:02 2023

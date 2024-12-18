@@ -1,0 +1,19 @@
+{ Using PSTWRITER 17.2.0 d001Sep-21-2023 at 19:40:37 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.26" ignored for U1: SCHEMATIC1, LOGIC (43.18, 45.72). Connecting pin to net "BUTTON1".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.27" ignored for U1: SCHEMATIC1, LOGIC (43.18, 45.72). Connecting pin to net "BUTTON2".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "U4.18" ignored for U4: SCHEMATIC1, LOGIC (195.58, 101.60). Connecting pin to net "#FAN2".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.34" ignored for U1: SCHEMATIC1, LOGIC (43.18, 45.72). Connecting pin to net "N30121".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.10" ignored for U1: SCHEMATIC1, LOGIC (43.18, 45.72). Connecting pin to net "CS".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.59" ignored for U1: SCHEMATIC1, LOGIC (43.18, 45.72). Connecting pin to net "N07111".
+#7 WARNING(ORCAP-36006): Part Name "ATMEGA128-16AU_TQFP64_ATMEGA128-16AU" is renamed to "ATMEGA128-16AU_TQFP64_ATMEGA128".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... C:\USERS\6GIOC\ONEDRIVE\AAST\CIRCUIT\SCHM\allegro/pstchip.dat
+
+Loading... C:\USERS\6GIOC\ONEDRIVE\AAST\CIRCUIT\SCHM\allegro/pstchip.dat
+
+Loading... C:\USERS\6GIOC\ONEDRIVE\AAST\CIRCUIT\SCHM\allegro/pstxprt.dat
+
+Loading... C:\USERS\6GIOC\ONEDRIVE\AAST\CIRCUIT\SCHM\allegro/pstxnet.dat
+packaging the design view...

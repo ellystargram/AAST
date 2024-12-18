@@ -1,0 +1,5 @@
+AAST OS 개발자들은 들으시오.
+python을 이용한 코드 작성시
+visual studio code with github-copilot을 이용하여 작성하시오
+
+애초에 모든 코드에서 가능한 github-copilot을 애용하시오

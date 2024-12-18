@@ -1,0 +1,53 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : AAST_BOARD V1.brd                             )
+(    Software Version : 17.2S047                                      )
+(    Date/Time        : Mon Nov 27 10:57:39 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  U3 / ATMEGA128-16AU_DIP64_9_ATMEGA12 / DIP64_9 at (6596.00 10637.00)
+         Placed symbol:  U5 / L293D_DIP16_3_L293D / DIP16_3 at (6553.00 15995.50)
+         Placed symbol:  U2 / L293D_DIP16_3_L293D / DIP16_3 at (6951.00 15995.50)
+         Placed symbol:  U4 / L293D_DIP16_3_L293D / DIP16_3 at (7349.00 15995.50)
+         Placed symbol:  U1 / L293D_DIP16_3_L293D / DIP16_3 at (7747.00 15995.50)
+         Placed symbol:  J2 / HEADER 10_COLHEADER10_R_A_TRANS / COLHEADER10 at (8200.00 15458.00)
+         Placed symbol:  J4 / HEADER 10_COLHEADER10_CONTROLER / COLHEADER10 at (8408.00 15458.00)
+         Placed symbol:  J3 / HEADER 6_COLHEADER6_YMOTOR / COLHEADER6 at (8614.43 15355.64)
+         Placed symbol:  J1 / HEADER 6_COLHEADER6_XMOTOR / COLHEADER6 at (8819.29 15355.64)
+         Placed symbol:  J6 / HEADER 4_COLHEADER4_FANCON / COLHEADER4 at (9024.15 15355.64)
+         Placed symbol:  U6 / LM35/SO_1_TO92_LM35/SO / TO92 at (9189.48 15287.00)
+         Placed symbol:  R10 / R_RES400_1K / RES400 at (9429.38 15254.50)
+         Placed symbol:  R11 / R_RES400_1K / RES400 at (9560.38 15254.50)
+         Placed symbol:  R12 / R_RES400_1K / RES400 at (9691.38 15254.50)
+         Placed symbol:  R13 / R_RES400_1K / RES400 at (9822.38 15254.50)
+         Placed symbol:  R14 / R_RES400_1K / RES400 at (9953.38 15254.50)
+         Placed symbol:  R1 / R_RES400_1K / RES400 at (10084.38 15254.50)
+         Placed symbol:  J7 / HEADER 2_COLHEADER2_POWERCON / COLHEADER2 at (10240.81 15355.64)
+         Placed symbol:  R3 / R_RES400_1K / RES400 at (10420.24 15254.50)
+         Placed symbol:  R4 / R_RES400_1K / RES400 at (10551.24 15254.50)
+         Placed symbol:  R5 / R_RES400_1K / RES400 at (10682.24 15254.50)
+         Placed symbol:  R6 / R_RES400_1K / RES400 at (10813.24 15254.50)
+         Placed symbol:  R7 / R_RES400_1K / RES400 at (10944.24 15254.50)
+         Placed symbol:  R8 / R_RES400_1K / RES400 at (11075.24 15254.50)
+         Placed symbol:  R16 / R_RES400_330 / RES400 at (11206.24 15254.50)
+         Placed symbol:  R17 / R_RES400_330 / RES400 at (11337.24 15254.50)
+         Placed symbol:  R18 / R_RES400_330 / RES400 at (11468.24 15254.50)
+         Placed symbol:  R9 / R_RES400_10K / RES400 at (11599.24 15254.50)
+         Placed symbol:  J5 / HEADER 2_COLHEADER2_GUN / COLHEADER2 at (11755.67 15355.64)
+         Placed symbol:  D2 / LED_COLLED_LED / COLLED at (11972.10 15258.00)
+         Placed symbol:  D3 / LED_COLLED_LED / COLLED at (7702.00 10542.00)
+         Placed symbol:  R15 / R_RES400_1K / RES400 at (7893.00 10245.50)
+         Placed symbol:  R2 / R_RES400_1K / RES400 at (8024.00 10245.50)
+         Placed symbol:  D1 / LED_COLLED_LED / COLLED at (8192.00 10542.00)
+
+
+Placed 34 of 34 applicable (34 total) symbols.
+
+-----------------------------------------------------------------------
+

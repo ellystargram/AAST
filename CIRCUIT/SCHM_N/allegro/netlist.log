@@ -1,0 +1,24 @@
+{ Using PSTWRITER 17.2.0 d001Nov-27-2023 at 10:56:42 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "U3.6" ignored for U3: SCHEMATIC1, LOGIC (43.18, 45.72). Connecting pin to net "BUTTON1".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "U3.7" ignored for U3: SCHEMATIC1, LOGIC (43.18, 45.72). Connecting pin to net "BUTTON2".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "U3.34" ignored for U3: SCHEMATIC1, LOGIC (43.18, 45.72). Connecting pin to net "N30121".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "J5.2" ignored for J5: SCHEMATIC1, LOGIC (251.46, 99.06). Connecting pin to net "GND".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "U3.10" ignored for U3: SCHEMATIC1, LOGIC (43.18, 45.72). Connecting pin to net "CS".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "U3.59" ignored for U3: SCHEMATIC1, LOGIC (43.18, 45.72). Connecting pin to net "N07111".
+#7 WARNING(ORCAP-36038): "No_connect" property on Pin "U3.51" ignored for U3: SCHEMATIC1, LOGIC (43.18, 45.72). Connecting pin to net "XMOTOR_ENABLE".
+#8 WARNING(ORCAP-36038): "No_connect" property on Pin "U3.50" ignored for U3: SCHEMATIC1, LOGIC (43.18, 45.72). Connecting pin to net "YMOTOR_ENABLE".
+#9 WARNING(ORCAP-36038): "No_connect" property on Pin "U3.8" ignored for U3: SCHEMATIC1, LOGIC (43.18, 45.72). Connecting pin to net "GUNSHOT_SIGNAL".
+#10 WARNING(ORCAP-36006): Part Name "HEADER 10_COLHEADER10_R_A_TRANSMIT" is renamed to "HEADER 10_COLHEADER10_R_A_TRANS".
+#11 WARNING(ORCAP-36006): Part Name "HEADER 10_COLHEADER10_CONTROLER_TRANSMIT" is renamed to "HEADER 10_COLHEADER10_CONTROLER".
+#12 WARNING(ORCAP-36006): Part Name "ATMEGA128-16AU_DIP64_9_ATMEGA128-16AU" is renamed to "ATMEGA128-16AU_DIP64_9_ATMEGA12".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... C:\USERS\USER\DOWNLOADS\SCHM\allegro/pstchip.dat
+
+Loading... C:\USERS\USER\DOWNLOADS\SCHM\allegro/pstchip.dat
+
+Loading... C:\USERS\USER\DOWNLOADS\SCHM\allegro/pstxprt.dat
+
+Loading... C:\USERS\USER\DOWNLOADS\SCHM\allegro/pstxnet.dat
+packaging the design view...

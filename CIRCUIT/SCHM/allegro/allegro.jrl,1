@@ -1,0 +1,50 @@
+\t (00:00:22) allegro 17.2 S038 Windows SPB 64-bit Edition
+\t (00:00:22)     Journal start - Tue Oct 17 17:00:40 2023
+\t (00:00:22)         Host=GIO-LAPTOP User=6gioc Pid=3576 CPUs=8
+\t (00:00:22) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:22) 
+   (00:00:23) Loading axlcore.cxt 
+\t (00:00:23) Starting new design...
+\i (00:00:24) trapsize 29310
+\i (00:00:24) trapsize 2113
+\i (00:00:25) generaledit 
+\i (01:53:04) xhilite 
+\i (01:53:05) xname_flush 
+\i (01:53:05) done 
+\i (01:53:05) generaledit 
+\i (01:53:17) xhilite 
+\i (01:53:18) xname_flush 
+\i (01:53:18) done 
+\i (01:53:18) generaledit 
+\i (02:01:15) xhilite 
+\i (02:01:16) xname_flush 
+\i (02:01:16) done 
+\i (02:01:16) generaledit 
+\i (02:01:20) xhilite 
+\i (02:01:21) xname_flush 
+\i (02:01:21) done 
+\i (02:01:22) generaledit 
+\i (02:04:08) xhilite 
+\i (02:04:09) xname_flush 
+\i (02:04:09) done 
+\i (02:04:09) generaledit 
+\i (02:04:13) xhilite 
+\i (02:04:13) xname_flush 
+\i (02:04:13) done 
+\i (02:04:13) generaledit 
+\i (02:05:44) xhilite 
+\i (02:05:44) xname_flush 
+\i (02:05:44) done 
+\i (02:05:45) generaledit 
+\i (02:05:50) xhilite 
+\i (02:05:50) xname_flush 
+\i (02:05:50) done 
+\i (02:05:50) generaledit 
+\i (02:07:03) xhilite 
+\i (02:07:04) xname_flush 
+\i (02:07:04) done 
+\i (02:07:04) generaledit 
+\i (02:12:13) exit 
+\e (02:12:13) Do you want to save the changes you made to unnamed.brd?
+\i (02:12:15) fillin no 
+\t (02:12:16)     Journal end - Tue Oct 17 19:12:33 2023

@@ -1,0 +1,4 @@
+AAST	Auto Aim and Shot Turret
+AMCFT	Auto and Maunual Control with Fire Turret
+UOAAST	Unmanned Operable Auto Aim Shot Turret
+UMOAAST	Unmanned or Manned Operable Auto Aim Shot Turret

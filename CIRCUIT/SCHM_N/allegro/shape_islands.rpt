@@ -1,0 +1,20 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Island Report                                              )
+(                                                                     )
+(    Drawing          : AAST_BOARD V1.brd                             )
+(    Software Version : 17.2S038                                      )
+(    Date/Time        : Tue Nov 28 10:02:09 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total islands on design: 3
+
+
+  <<<  ETCH  >>>
+
+    Layer = BOTTOM
+	Point on shape: (30.0000 37.6998)  Net: GND
+	Point on shape: (110.1288 34.5248)  Net: GND
+	Point on shape: (115.1065 33.8898)  Net: GND

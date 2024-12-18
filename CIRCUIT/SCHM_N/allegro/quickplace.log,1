@@ -1,0 +1,58 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : AAST_BOARD V1.brd                             )
+(    Software Version : 17.2S038                                      )
+(    Date/Time        : Thu Sep 21 20:04:00 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  U1 / ATMEGA128-16AU_TQFP64_ATMEGA128 / TQFP64 at (6.9532 46.9532)
+         Placed symbol:  U3 / L293D_1_SOIC20_L293DD / SOIC20 at (16.1670 52.3698)
+         Placed symbol:  U4 / L293D_1_SOIC20_L293DD / SOIC20 at (29.4004 52.3698)
+         Placed symbol:  U2 / L293D_1_SOIC20_L293DD / SOIC20 at (42.6338 52.3698)
+         Placed symbol:  J18 / HEADER 10_DIP10_2_HEADER 10 / DIP10_2 at (55.5116 52.2682)
+         Placed symbol:  J1 / HEADER 8_JUMPER8_HEADER 8 / JUMPER8 at (65.1890 41.4732)
+         Placed symbol:  J3 / HEADER 6_DIP6_3_HEADER 6 / DIP6_3 at (71.1072 47.1882)
+         Placed symbol:  J14 / HEADER 3_JUMPER4_HEADER 3 / JUMPER4 at (81.4704 41.7272)
+         Placed symbol:  J5 / HEADER 4_JUMPER4_HEADER 4 / JUMPER4 at (91.8336 41.7272)
+         Placed symbol:  J6 / HEADER 4_JUMPER4_HEADER 4 / JUMPER4 at (102.1968 41.7272)
+         Placed symbol:  J13 / HEADER 3_JUMPER4_HEADER 3 / JUMPER4 at (112.5600 41.7272)
+         Placed symbol:  U5 / LM35/SO_1_TO92_LM35/SO / TO92 at (123.1493 42.2098)
+         Placed symbol:  C5 / CAP NP_SMC0603_10PF / SMC0603 at (128.2141 41.1049)
+         Placed symbol:  C4 / CAP NP_SMC0603_10PF / SMC0603 at (131.4907 41.1049)
+         Placed symbol:  C6 / CAP NP_SMC0603_10PF / SMC0603 at (134.7673 41.1049)
+         Placed symbol:  C7 / CAP NP_SMC0603_10PF / SMC0603 at (138.0439 41.1049)
+         Placed symbol:  C15 / CAP NP_SMC0603_10PF / SMC0603 at (141.3205 41.1049)
+         Placed symbol:  C8 / CAP NP_SMC0603_10PF / SMC0603 at (144.5971 41.1049)
+         Placed symbol:  C13 / CAP NP_SMC0603_10PF / SMC0603 at (147.8737 41.1049)
+         Placed symbol:  C9 / CAP NP_SMC0603_10PF / SMC0603 at (151.1503 41.1049)
+         Placed symbol:  C3 / CAP NP_SMC0603_10PF / SMC0603 at (154.4269 41.1049)
+         Placed symbol:  D2 / LED_JUMPER2_LED / JUMPER2 at (158.1480 41.4732)
+         Placed symbol:  J15 / HEADER 2_JUMPER2_HEADER 2 / JUMPER2 at (163.4312 41.4732)
+         Placed symbol:  J17 / HEADER 2_JUMPER2_HEADER 2 / JUMPER2 at (168.7144 41.4732)
+         Placed symbol:  C12 / CAP NP_SMC0603_10PF / SMC0603 at (173.5531 41.1049)
+         Placed symbol:  D1 / LED_JUMPER2_LED / JUMPER2 at (1.4732 55.6464)
+         Placed symbol:  C16 / CAP NP_SMC0603_10PF / SMC0603 at (6.3119 55.2781)
+         Placed symbol:  C14 / CAP NP_SMC0603_10PF / SMC0603 at (9.5885 55.2781)
+         Placed symbol:  R10 / R_SMR0603_330 / SMR0603 at (12.8651 55.2781)
+         Placed symbol:  R11 / R_SMR0603_330 / SMR0603 at (16.1417 55.2781)
+         Placed symbol:  R12 / R_SMR0603_330 / SMR0603 at (19.4183 55.2781)
+         Placed symbol:  R891 / R_JUMPER2_10K / JUMPER2 at (23.1394 55.6464)
+         Placed symbol:  R9 / R_SMR0603_1K / SMR0603 at (27.9781 55.2781)
+         Placed symbol:  C11 / CAP NP_SMC0603_10PF / SMC0603 at (31.2547 55.2781)
+         Placed symbol:  C10 / CAP NP_SMC0603_10PF / SMC0603 at (34.5313 55.2781)
+         Placed symbol:  C2 / CAP NP_SMC0603_22PF / SMC0603 at (37.8079 55.2781)
+         Placed symbol:  D3 / LED_JUMPER2_LED / JUMPER2 at (41.5290 55.6464)
+         Placed symbol:  C1 / CAP NP_SMC0603_22PF / SMC0603 at (46.3677 55.2781)
+         Placed symbol:  Y1 / CRYSTAL_RES400_16MHZ / RES400 at (50.6730 55.5575)
+
+
+Placed 39 of 39 applicable (39 total) symbols.
+
+-----------------------------------------------------------------------
+

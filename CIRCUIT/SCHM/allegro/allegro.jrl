@@ -1,0 +1,18 @@
+\t (00:00:13) allegro 17.2 S038 Windows SPB 64-bit Edition
+\t (00:00:13)     Journal start - Tue Nov 28 08:47:10 2023
+\t (00:00:13)         Host=GIO-LAPTOP User=6gioc Pid=10000 CPUs=8
+\t (00:00:13) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:13) 
+   (00:00:13) Loading axlcore.cxt 
+\t (00:00:13) Starting new design...
+\i (00:00:14) trapsize 29310
+\i (00:00:15) trapsize 2830
+\i (00:00:15) generaledit 
+\i (00:00:21) open 
+\i (00:00:36) fillin "C:\Users\6gioc\OneDrive\AAST\CIRCUIT\SCHM_N\allegro\AAST_BOARD V1.brd"
+\i (00:00:36) cd "C:\Users\6gioc\OneDrive\AAST\CIRCUIT\SCHM_N\allegro"
+\i (00:00:36) trapsize 1189
+\i (00:00:36) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged unnamed
+\t (00:00:36) Opening existing design...
+\i (00:00:36) trapsize 11888
+\t (00:00:36)     Journal end - Tue Nov 28 08:47:32 2023

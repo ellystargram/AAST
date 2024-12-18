@@ -1,0 +1,16 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : AAST_BOARD V1.brd                             )
+(    Software Version : 17.2S038                                      )
+(    Date/Time        : Tue Nov 28 10:33:40 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ERROR: in SYMBOL DEFINITION name = LEADER
+  ERROR(SPMHDB-224): Symbol definition has no instances.
+
+0 warnings, 1 errors detected, 1 errors could be fixed.

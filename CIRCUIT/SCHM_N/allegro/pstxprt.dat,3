@@ -1,0 +1,400 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Sep-21-2023 at 19:40:37 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='AAST_BOARD V1';
+ POST_TIME='Apr 15 2018 17:30:46';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP NP_SMC0603_22PF':;
+
+SECTION_NUMBER 1
+ '@AAST_BOARD V1.SCHEMATIC1(SCH_1):INS665@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\aast_board v1\.schematic1(sch_1):ins665@discrete.\cap np.normal\(chips)',
+ P_PATH='@\aast_board v1\.schematic1(sch_1):page1_ins665@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP NP_SMC0603_10PF':;
+
+SECTION_NUMBER 1
+ '@AAST_BOARD V1.SCHEMATIC1(SCH_1):INS23303@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\aast_board v1\.schematic1(sch_1):ins23303@discrete.\cap np.normal\(chips)',
+ P_PATH='@\aast_board v1\.schematic1(sch_1):page1_ins23303@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP NP_SMC0603_10PF':;
+
+SECTION_NUMBER 1
+ '@AAST_BOARD V1.SCHEMATIC1(SCH_1):INS23329@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\aast_board v1\.schematic1(sch_1):ins23329@discrete.\cap np.normal\(chips)',
+ P_PATH='@\aast_board v1\.schematic1(sch_1):page1_ins23329@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP NP_SMC0603_10PF':;
+
+SECTION_NUMBER 1
+ '@AAST_BOARD V1.SCHEMATIC1(SCH_1):INS23433@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\aast_board v1\.schematic1(sch_1):ins23433@discrete.\cap np.normal\(chips)',
+ P_PATH='@\aast_board v1\.schematic1(sch_1):page1_ins23433@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP NP_SMC0603_10PF':;
+
+SECTION_NUMBER 1
+ '@AAST_BOARD V1.SCHEMATIC1(SCH_1):INS23459@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\aast_board v1\.schematic1(sch_1):ins23459@discrete.\cap np.normal\(chips)',
+ P_PATH='@\aast_board v1\.schematic1(sch_1):page1_ins23459@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP NP_SMC0603_10PF':;
+
+SECTION_NUMBER 1
+ '@AAST_BOARD V1.SCHEMATIC1(SCH_1):INS26034@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\aast_board v1\.schematic1(sch_1):ins26034@discrete.\cap np.normal\(chips)',
+ P_PATH='@\aast_board v1\.schematic1(sch_1):page1_ins26034@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'CAP NP_SMC0603_10PF':;
+
+SECTION_NUMBER 1
+ '@AAST_BOARD V1.SCHEMATIC1(SCH_1):INS26060@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\aast_board v1\.schematic1(sch_1):ins26060@discrete.\cap np.normal\(chips)',
+ P_PATH='@\aast_board v1\.schematic1(sch_1):page1_ins26060@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'CAP NP_SMC0603_10PF':;
+
+SECTION_NUMBER 1
+ '@AAST_BOARD V1.SCHEMATIC1(SCH_1):INS26086@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\aast_board v1\.schematic1(sch_1):ins26086@discrete.\cap np.normal\(chips)',
+ P_PATH='@\aast_board v1\.schematic1(sch_1):page1_ins26086@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_SMC0603_22PF':;
+
+SECTION_NUMBER 1
+ '@AAST_BOARD V1.SCHEMATIC1(SCH_1):INS681@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\aast_board v1\.schematic1(sch_1):ins681@discrete.\cap np.normal\(chips)',
+ P_PATH='@\aast_board v1\.schematic1(sch_1):page1_ins681@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP NP_SMC0603_10PF':;
+
+SECTION_NUMBER 1
+ '@AAST_BOARD V1.SCHEMATIC1(SCH_1):INS23121@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\aast_board v1\.schematic1(sch_1):ins23121@discrete.\cap np.normal\(chips)',
+ P_PATH='@\aast_board v1\.schematic1(sch_1):page1_ins23121@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP NP_SMC0603_10PF':;
+
+SECTION_NUMBER 1
+ '@AAST_BOARD V1.SCHEMATIC1(SCH_1):INS23147@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\aast_board v1\.schematic1(sch_1):ins23147@discrete.\cap np.normal\(chips)',
+ P_PATH='@\aast_board v1\.schematic1(sch_1):page1_ins23147@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP NP_SMC0603_10PF':;
+
+SECTION_NUMBER 1
+ '@AAST_BOARD V1.SCHEMATIC1(SCH_1):INS23173@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\aast_board v1\.schematic1(sch_1):ins23173@discrete.\cap np.normal\(chips)',
+ P_PATH='@\aast_board v1\.schematic1(sch_1):page1_ins23173@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP NP_SMC0603_10PF':;
+
+SECTION_NUMBER 1
+ '@AAST_BOARD V1.SCHEMATIC1(SCH_1):INS23199@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\aast_board v1\.schematic1(sch_1):ins23199@discrete.\cap np.normal\(chips)',
+ P_PATH='@\aast_board v1\.schematic1(sch_1):page1_ins23199@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP NP_SMC0603_10PF':;
+
+SECTION_NUMBER 1
+ '@AAST_BOARD V1.SCHEMATIC1(SCH_1):INS23225@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\aast_board v1\.schematic1(sch_1):ins23225@discrete.\cap np.normal\(chips)',
+ P_PATH='@\aast_board v1\.schematic1(sch_1):page1_ins23225@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP NP_SMC0603_10PF':;
+
+SECTION_NUMBER 1
+ '@AAST_BOARD V1.SCHEMATIC1(SCH_1):INS23251@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\aast_board v1\.schematic1(sch_1):ins23251@discrete.\cap np.normal\(chips)',
+ P_PATH='@\aast_board v1\.schematic1(sch_1):page1_ins23251@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP NP_SMC0603_10PF':;
+
+SECTION_NUMBER 1
+ '@AAST_BOARD V1.SCHEMATIC1(SCH_1):INS23277@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\aast_board v1\.schematic1(sch_1):ins23277@discrete.\cap np.normal\(chips)',
+ P_PATH='@\aast_board v1\.schematic1(sch_1):page1_ins23277@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'LED_JUMPER2_LED':;
+
+SECTION_NUMBER 1
+ '@AAST_BOARD V1.SCHEMATIC1(SCH_1):INS29590@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@\aast_board v1\.schematic1(sch_1):ins29590@discrete.\led.normal\(chips)',
+ P_PATH='@\aast_board v1\.schematic1(sch_1):page1_ins29590@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'LED_JUMPER2_LED':;
+
+SECTION_NUMBER 1
+ '@AAST_BOARD V1.SCHEMATIC1(SCH_1):INS29817@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@\aast_board v1\.schematic1(sch_1):ins29817@discrete.\led.normal\(chips)',
+ P_PATH='@\aast_board v1\.schematic1(sch_1):page1_ins29817@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'LED_JUMPER2_LED':;
+
+SECTION_NUMBER 1
+ '@AAST_BOARD V1.SCHEMATIC1(SCH_1):INS30105@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@\aast_board v1\.schematic1(sch_1):ins30105@discrete.\led.normal\(chips)',
+ P_PATH='@\aast_board v1\.schematic1(sch_1):page1_ins30105@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'HEADER 8_JUMPER8_HEADER 8':;
+
+SECTION_NUMBER 1
+ '@AAST_BOARD V1.SCHEMATIC1(SCH_1):INS422@CONNECTOR.HEADER 8.NORMAL(CHIPS)':
+ C_PATH='@\aast_board v1\.schematic1(sch_1):ins422@connector.\header 8.normal\(chips)',
+ P_PATH='@\aast_board v1\.schematic1(sch_1):page1_ins422@connector.\header 8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J13 'HEADER 3_JUMPER4_HEADER 3':;
+
+SECTION_NUMBER 1
+ '@AAST_BOARD V1.SCHEMATIC1(SCH_1):INS45732@CONNECTOR.HEADER 3.NORMAL(CHIPS)':
+ C_PATH='@\aast_board v1\.schematic1(sch_1):ins45732@connector.\header 3.normal\(chips)',
+ P_PATH='@\aast_board v1\.schematic1(sch_1):page1_ins45732@connector.\header 3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J14 'HEADER 3_JUMPER4_HEADER 3':;
+
+SECTION_NUMBER 1
+ '@AAST_BOARD V1.SCHEMATIC1(SCH_1):INS45750@CONNECTOR.HEADER 3.NORMAL(CHIPS)':
+ C_PATH='@\aast_board v1\.schematic1(sch_1):ins45750@connector.\header 3.normal\(chips)',
+ P_PATH='@\aast_board v1\.schematic1(sch_1):page1_ins45750@connector.\header 3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J15 'HEADER 2_JUMPER2_HEADER 2':;
+
+SECTION_NUMBER 1
+ '@AAST_BOARD V1.SCHEMATIC1(SCH_1):INS26584@CONNECTOR.HEADER 2.NORMAL(CHIPS)':
+ C_PATH='@\aast_board v1\.schematic1(sch_1):ins26584@connector.\header 2.normal\(chips)',
+ P_PATH='@\aast_board v1\.schematic1(sch_1):page1_ins26584@connector.\header 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J17 'HEADER 2_JUMPER2_HEADER 2':;
+
+SECTION_NUMBER 1
+ '@AAST_BOARD V1.SCHEMATIC1(SCH_1):INS47169@CONNECTOR.HEADER 2.NORMAL(CHIPS)':
+ C_PATH='@\aast_board v1\.schematic1(sch_1):ins47169@connector.\header 2.normal\(chips)',
+ P_PATH='@\aast_board v1\.schematic1(sch_1):page1_ins47169@connector.\header 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J18 'HEADER 10_DIP10_2_HEADER 10':;
+
+SECTION_NUMBER 1
+ '@AAST_BOARD V1.SCHEMATIC1(SCH_1):INS36650@CONNECTOR.HEADER 10.NORMAL(CHIPS)':
+ C_PATH='@\aast_board v1\.schematic1(sch_1):ins36650@connector.\header 10.normal\(chips)',
+ P_PATH='@\aast_board v1\.schematic1(sch_1):page1_ins36650@connector.\header 10.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'HEADER 6_DIP6_3_HEADER 6':;
+
+SECTION_NUMBER 1
+ '@AAST_BOARD V1.SCHEMATIC1(SCH_1):INS1210@CONNECTOR.HEADER 6.NORMAL(CHIPS)':
+ C_PATH='@\aast_board v1\.schematic1(sch_1):ins1210@connector.\header 6.normal\(chips)',
+ P_PATH='@\aast_board v1\.schematic1(sch_1):page1_ins1210@connector.\header 6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J5 'HEADER 4_JUMPER4_HEADER 4':;
+
+SECTION_NUMBER 1
+ '@AAST_BOARD V1.SCHEMATIC1(SCH_1):INS44856@CONNECTOR.HEADER 4.NORMAL(CHIPS)':
+ C_PATH='@\aast_board v1\.schematic1(sch_1):ins44856@connector.\header 4.normal\(chips)',
+ P_PATH='@\aast_board v1\.schematic1(sch_1):page1_ins44856@connector.\header 4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J6 'HEADER 4_JUMPER4_HEADER 4':;
+
+SECTION_NUMBER 1
+ '@AAST_BOARD V1.SCHEMATIC1(SCH_1):INS45176@CONNECTOR.HEADER 4.NORMAL(CHIPS)':
+ C_PATH='@\aast_board v1\.schematic1(sch_1):ins45176@connector.\header 4.normal\(chips)',
+ P_PATH='@\aast_board v1\.schematic1(sch_1):page1_ins45176@connector.\header 4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R_SMR0603_330':;
+
+SECTION_NUMBER 1
+ '@AAST_BOARD V1.SCHEMATIC1(SCH_1):INS29706@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\aast_board v1\.schematic1(sch_1):ins29706@discrete.\r.normal\(chips)',
+ P_PATH='@\aast_board v1\.schematic1(sch_1):page1_ins29706@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R_SMR0603_330':;
+
+SECTION_NUMBER 1
+ '@AAST_BOARD V1.SCHEMATIC1(SCH_1):INS29842@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\aast_board v1\.schematic1(sch_1):ins29842@discrete.\r.normal\(chips)',
+ P_PATH='@\aast_board v1\.schematic1(sch_1):page1_ins29842@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R_SMR0603_330':;
+
+SECTION_NUMBER 1
+ '@AAST_BOARD V1.SCHEMATIC1(SCH_1):INS30286@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\aast_board v1\.schematic1(sch_1):ins30286@discrete.\r.normal\(chips)',
+ P_PATH='@\aast_board v1\.schematic1(sch_1):page1_ins30286@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R891 'R_JUMPER2_10K':;
+
+SECTION_NUMBER 1
+ '@AAST_BOARD V1.SCHEMATIC1(SCH_1):INS29246@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\aast_board v1\.schematic1(sch_1):ins29246@discrete.\r.normal\(chips)',
+ P_PATH='@\aast_board v1\.schematic1(sch_1):page1_ins29246@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_SMR0603_1K':;
+
+SECTION_NUMBER 1
+ '@AAST_BOARD V1.SCHEMATIC1(SCH_1):INS29296@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\aast_board v1\.schematic1(sch_1):ins29296@discrete.\r.normal\(chips)',
+ P_PATH='@\aast_board v1\.schematic1(sch_1):page1_ins29296@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'ATMEGA128-16AU_TQFP64_ATMEGA128':;
+
+SECTION_NUMBER 1
+ '@AAST_BOARD V1.SCHEMATIC1(SCH_1):INS150@ATMEGA128-16AU.ATMEGA128-16AU.NORMAL(CHIPS)':
+ C_PATH='@\aast_board v1\.schematic1(sch_1):ins150@\atmega128-16au\.\atmega128-16au.normal\(chips)',
+ P_PATH='@\aast_board v1\.schematic1(sch_1):page1_ins150@\atmega128-16au\.\atmega128-16au.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'L293D_1_SOIC20_L293DD':;
+
+SECTION_NUMBER 1
+ '@AAST_BOARD V1.SCHEMATIC1(SCH_1):INS44876@AAST_BOARD V1.L293D_1.NORMAL(CHIPS)':
+ C_PATH='@\aast_board v1\.schematic1(sch_1):ins44876@\aast_board v1\.\l293d_1.normal\(chips)',
+ P_PATH='@\aast_board v1\.schematic1(sch_1):page1_ins44876@\aast_board v1\.\l293d_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'L293D_1_SOIC20_L293DD':;
+
+SECTION_NUMBER 1
+ '@AAST_BOARD V1.SCHEMATIC1(SCH_1):INS45196@AAST_BOARD V1.L293D_1.NORMAL(CHIPS)':
+ C_PATH='@\aast_board v1\.schematic1(sch_1):ins45196@\aast_board v1\.\l293d_1.normal\(chips)',
+ P_PATH='@\aast_board v1\.schematic1(sch_1):page1_ins45196@\aast_board v1\.\l293d_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'L293D_1_SOIC20_L293DD':;
+
+SECTION_NUMBER 1
+ '@AAST_BOARD V1.SCHEMATIC1(SCH_1):INS47185@AAST_BOARD V1.L293D_1.NORMAL(CHIPS)':
+ C_PATH='@\aast_board v1\.schematic1(sch_1):ins47185@\aast_board v1\.\l293d_1.normal\(chips)',
+ P_PATH='@\aast_board v1\.schematic1(sch_1):page1_ins47185@\aast_board v1\.\l293d_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'LM35/SO_1_TO92_LM35/SO':;
+
+SECTION_NUMBER 1
+ '@AAST_BOARD V1.SCHEMATIC1(SCH_1):INS6567@AAST_BOARD V1.LM35/SO_1.NORMAL(CHIPS)':
+ C_PATH='@\aast_board v1\.schematic1(sch_1):ins6567@\aast_board v1\.\lm35/so_1.normal\(chips)',
+ P_PATH='@\aast_board v1\.schematic1(sch_1):page1_ins6567@\aast_board v1\.\lm35/so_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'CRYSTAL_RES400_16MHZ':;
+
+SECTION_NUMBER 1
+ '@AAST_BOARD V1.SCHEMATIC1(SCH_1):INS615@DISCRETE.CRYSTAL.NORMAL(CHIPS)':
+ C_PATH='@\aast_board v1\.schematic1(sch_1):ins615@discrete.\crystal.normal\(chips)',
+ P_PATH='@\aast_board v1\.schematic1(sch_1):page1_ins615@discrete.\crystal.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

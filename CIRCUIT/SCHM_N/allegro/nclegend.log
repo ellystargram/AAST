@@ -1,0 +1,17 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DRILL LEGEND                                                     )
+(                                                                     )
+(    Drawing          : AAST_BOARD V1.brd                             )
+(    Software Version : 17.2S038                                      )
+(    Date/Time        : Tue Nov 28 10:10:06 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Begin processing of drill legend template file 'C:/Cadence/SPB_17.2/share/pcb/text/nclegend/default-mm.dlt' ...
+End of drill legend template file processing.
+
+Begin processing drill holes.
+Warning : Hole 1.0000-0.0000-C-M0-P-0.0000-0.0000-0.0000-0.0000- uses multiple drill figures.
+End processing drill holes.

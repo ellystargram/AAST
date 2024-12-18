@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : COLHEADER10.dra                               )
+(    Software Version : 17.2S047                                      )
+(    Date/Time        : Mon Nov 27 10:51:15 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/user/Downloads/SCHM
+    Name      = colheader10.psm
+    User      = user
+    Machine   = INTECH12
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

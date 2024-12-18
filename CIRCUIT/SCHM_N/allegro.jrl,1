@@ -1,0 +1,153 @@
+\t (01:26:31) allegro 17.2 S047 Windows SPB 64-bit Edition
+\t (01:26:31)     Journal start - Mon Nov 27 10:48:43 2023
+\t (01:26:31)         Host=INTECH12 User=user Pid=12660 CPUs=8
+\t (01:26:31) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (01:26:31) 
+\t (01:26:31) Starting new design...
+\i (01:26:31) trapsize 9630
+\i (01:26:31) trapsize 9854
+\i (01:26:31) trapsize 9630
+\i (01:26:31) trapsize 17797
+\i (01:26:31) trapsize 17797
+\i (01:26:32) trapsize 16006
+\i (01:26:32) package symbol wizard 
+\i (01:26:33) setwindow form.sym_wizard
+\i (01:26:33) FORM sym_wizard wiz_next  
+   (01:26:33) Loading cmds.cxt 
+\i (01:26:35) FORM sym_wizard load_template  
+\t (01:26:35) Opening existing design...
+\t (01:26:35) Grids are drawn 200, 200 apart for enhanced viewability.
+\i (01:26:35) setwindow pcb
+\i (01:26:35) trapsize 143
+\i (01:26:35) trapsize 146
+\i (01:26:35) trapsize 143
+\t (01:26:35) Grids are drawn 400, 400 apart for enhanced viewability.
+\i (01:26:35) trapsize 273
+\d (01:26:35) Design opened: C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (01:26:35) trapsize 259
+\t (01:26:35) Grids are drawn 3200, 3200 apart for enhanced viewability.
+\i (01:26:35) setwindow form.sym_wizard
+\i (01:26:35) FORM sym_wizard wiz_next  
+\i (01:26:43) FORM sym_wizard ref_des J* 
+\i (01:26:44) FORM sym_wizard wiz_next  
+\i (01:26:50) FORM sym_wizard dip_pin_count 10 
+\i (01:27:03) FORM sym_wizard dip_e1 100 
+\i (01:27:28) FORM sym_wizard dip_width 150 
+\i (01:27:50) FORM sym_wizard dip_len 450 
+\i (01:27:50) FORM sym_wizard wiz_next  
+\i (01:27:51) FORM sym_wizard default_pad_browse  
+\i (01:27:55) fillin "1Mmcirclehole"
+\i (01:27:56) FORM sym_wizard pin1_pad_browse  
+\i (01:27:57) fillin "1Mmsquarehole"
+\i (01:27:59) FORM sym_wizard wiz_next  
+\i (01:28:00) FORM sym_wizard wiz_next  
+\i (01:28:01) FORM sym_wizard wiz_finish  
+\w (01:28:01) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (01:28:01) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (01:28:01) Grids are drawn 400, 400 apart for enhanced viewability.
+\i (01:28:01) setwindow pcb
+\i (01:28:01) trapsize 273
+\i (01:28:01) trapsize 5
+\i (01:28:01) trapsize 4
+\i (01:28:01) trapsize 4
+\t (01:28:01) Creating package symbol 'C:/Users/user/Downloads/SCHM/colheader10.psm'.
+\t (01:28:01) Starting Create symbol...
+\i (01:28:02) generaledit 
+\i (01:28:03) zoom in 1 
+\i (01:28:03) setwindow pcb
+\i (01:28:03) zoom in -28 -38
+\i (01:28:03) trapsize 2
+\i (01:28:04) zoom out 1 
+\i (01:28:04) setwindow pcb
+\i (01:28:04) zoom out -43 -26
+\i (01:28:04) trapsize 4
+\i (01:28:05) zoom in 1 
+\i (01:28:05) setwindow pcb
+\i (01:28:05) zoom in -67 25
+\i (01:28:05) trapsize 2
+\i (01:28:05) zoom in 1 
+\i (01:28:05) setwindow pcb
+\i (01:28:05) zoom in -77 24
+\i (01:28:05) trapsize 1
+\i (01:28:05) zoom in 1 
+\i (01:28:05) setwindow pcb
+\i (01:28:05) zoom in -43 17
+\i (01:28:05) trapsize 1
+\i (01:28:06) zoom out 1 
+\i (01:28:06) setwindow pcb
+\i (01:28:06) zoom out -39 17
+\i (01:28:06) trapsize 1
+\i (01:28:06) zoom out 1 
+\i (01:28:06) setwindow pcb
+\i (01:28:06) zoom out -50 18
+\i (01:28:06) trapsize 2
+\i (01:28:06) zoom out 1 
+\i (01:28:06) setwindow pcb
+\i (01:28:06) zoom out -61 20
+\i (01:28:06) trapsize 4
+\i (01:28:06) zoom out 1 
+\i (01:28:06) setwindow pcb
+\i (01:28:06) zoom out 54 20
+\i (01:28:06) trapsize 8
+\i (01:28:06) zoom in 1 
+\i (01:28:06) setwindow pcb
+\i (01:28:06) zoom in 13 5
+\i (01:28:06) trapsize 4
+\i (01:28:11) new 
+\e (01:28:11) Do you want to save the changes you made to C:/Users/user/Downloads/SCHM/COLHEADER10.dra?
+\i (01:28:12) fillin yes 
+\t (01:28:12) Symbol 'colheader10.psm' created.
+\i (01:28:18) newdrawfillin "COLHEADER10.dra" "Package Symbol (Wizard)"
+\t (01:28:18) Starting new design...
+\i (01:28:18) trapsize 10
+\i (01:28:18) trapsize 10
+\i (01:28:18) package symbol wizard 
+\i (01:28:21) setwindow form.sym_wizard
+\i (01:28:21) FORM sym_wizard wiz_next  
+\i (01:28:22) FORM sym_wizard load_template  
+\t (01:28:22) Opening existing design...
+\t (01:28:22) Grids are drawn 200, 200 apart for enhanced viewability.
+\i (01:28:22) setwindow pcb
+\i (01:28:22) trapsize 143
+\i (01:28:22) trapsize 146
+\i (01:28:22) trapsize 143
+\t (01:28:22) Grids are drawn 400, 400 apart for enhanced viewability.
+\i (01:28:22) trapsize 273
+\d (01:28:22) Design opened: C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (01:28:22) trapsize 259
+\t (01:28:22) Grids are drawn 3200, 3200 apart for enhanced viewability.
+\i (01:28:22) setwindow form.sym_wizard
+\i (01:28:22) FORM sym_wizard wiz_next  
+\i (01:28:26) FORM sym_wizard ref_des J* 
+\i (01:28:26) FORM sym_wizard wiz_next  
+\i (01:28:29) FORM sym_wizard dip_pin_count 10 
+\i (01:28:31) FORM sym_wizard dip_e1 100 
+\i (01:28:34) FORM sym_wizard dip_width 200 
+\i (01:28:41) FORM sym_wizard dip_len 500 
+\i (01:28:41) FORM sym_wizard wiz_next  
+\i (01:28:43) FORM sym_wizard default_pad_browse  
+\i (01:28:44) fillin "1Mmcirclehole"
+\i (01:28:45) FORM sym_wizard pin1_pad_browse  
+\i (01:28:46) fillin "1Mmsquarehole"
+\i (01:28:48) FORM sym_wizard wiz_next  
+\i (01:28:48) FORM sym_wizard wiz_next  
+\i (01:28:49) FORM sym_wizard wiz_finish  
+\w (01:28:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (01:28:49) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (01:28:49) Grids are drawn 400, 400 apart for enhanced viewability.
+\i (01:28:49) setwindow pcb
+\i (01:28:49) trapsize 274
+\i (01:28:50) trapsize 7
+\i (01:28:50) trapsize 4
+\i (01:28:50) trapsize 4
+\i (01:28:51) fillin yes 
+\i (01:28:52) fillin yes 
+\t (01:28:52) Creating package symbol 'C:/Users/user/Downloads/SCHM/colheader10.psm'.
+\t (01:28:52) Starting Create symbol...
+\i (01:28:52) generaledit 
+\i (01:28:53) save 
+\i (01:29:04) fillin yes 
+\t (01:29:04) Symbol 'colheader10.psm' created.
+\i (01:29:04) generaledit 
+\i (01:29:05) exit 
+\t (01:29:05)     Journal end - Mon Nov 27 10:51:17 2023

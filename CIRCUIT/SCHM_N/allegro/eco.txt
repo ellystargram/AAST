@@ -1,0 +1,352 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/USER/DOWNLOADS/SCHM/allegro/AAST_BOARD V1.brd                      |
+|                                                    Mon Nov 27 10:56:43 2023  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  #FAN         pins ADDED TO this new net
+                                 J6.1           J6.3           U5.11          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  #GUN_TRIGGER pins ADDED TO this new net
+                                 J5.1           U5.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  #XA          pins ADDED TO this new net
+                                 J1.1           U2.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  #XABAR       pins ADDED TO this new net
+                                 J1.3           U2.11          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  #XB          pins ADDED TO this new net
+                                 J1.4           U2.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  #XBBAR       pins ADDED TO this new net
+                                 J1.6           U2.14          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  #YA          pins ADDED TO this new net
+                                 J3.1           U4.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  #YABAR       pins ADDED TO this new net
+                                 J3.3           U4.11          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  #YB          pins ADDED TO this new net
+                                 J3.4           U4.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  #YBBAR       pins ADDED TO this new net
+                                 J3.6           U4.14          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  +5V          pins ADDED TO this new net
+                                 J2.1           J4.1           J7.1           
+                                 R9.2           R18.1          U1.2           
+                                 U1.8           U1.10          U1.16          
+                                 U2.8           U2.16          U3.21          
+                                 U3.52          U3.62          U3.64          
+                                 U4.8           U4.16          U5.2           
+                                 U5.8           U5.10          U5.16          
+                                 U6.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BUTTON1      pins ADDED TO this new net
+                                 J4.7           R4.1           U3.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BUTTON2      pins ADDED TO this new net
+                                 J4.8           R6.1           U3.7           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/USER/DOWNLOADS/SCHM/allegro/AAST_BOARD V1.brd                      |
+|                                                    Mon Nov 27 10:56:43 2023  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  CLK_R_A      pins ADDED TO this new net
+                                 J2.2           R7.2           U3.25          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CS           pins ADDED TO this new net
+                                 J4.2           U3.10          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  FAN          pins ADDED TO this new net
+                                 R3.1           U3.15          U5.9           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins ADDED TO this existing net (pins not previously on any net)
+                                 D3.1                           
+                                 J2.10                          
+                                 J4.9                           
+                                 J5.2                           
+                                 J6.2                           
+                                 J6.4                           
+                                 J7.2                           
+                                 R1.2                           
+                                 R2.2                           
+                                 R3.2                           
+                                 R4.2                           
+                                 R5.2                           
+                                 R6.2                           
+                                 R7.1                           
+                                 R8.2                           
+                                 R10.2                          
+                                 R11.2                          
+                                 R12.2                          
+                                 R13.2                          
+                                 R14.2                          
+                                 R15.2                          
+                                 R16.2                          
+                                 R17.2                          
+                                 U3.22                          
+                                 U3.53                          
+                                 U3.63                          
+                                 U5.7                           
+                                 U5.15                          
+                                 U6.3                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GUNSHOT_SIGNAL pins ADDED TO this new net
+                                 J2.8           R5.1           U3.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GUN_TRIGGER  pins ADDED TO this new net
+                                 D2.2           R15.1          U3.33          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/USER/DOWNLOADS/SCHM/allegro/AAST_BOARD V1.brd                      |
+|                                                    Mon Nov 27 10:56:43 2023  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 U5.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  MOSI         pins ADDED TO this new net
+                                 J4.4           U3.12          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N07111       pins ADDED TO this new net
+                                 U3.59          U6.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N29275       pins ADDED TO this new net
+                                 R9.1           R12.1          U3.58          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N29722       pins ADDED TO this new net
+                                 D3.2           R18.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N30121       pins ADDED TO this new net
+                                 D1.2           U3.34          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N30488       pins ADDED TO this new net
+                                 D1.1           R17.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N298271      pins ADDED TO this new net
+                                 D2.1           R16.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  OVR_R_A      pins ADDED TO this new net
+                                 J2.7           R8.1           U3.28          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RX           pins ADDED TO this new net
+                                 J4.5           U3.61          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RY           pins ADDED TO this new net
+                                 J4.6           U3.60          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SCK          pins ADDED TO this new net
+                                 J4.3           U3.11          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  X+_R_A       pins ADDED TO this new net
+                                 J2.3           R10.1          U3.29          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  X-_R_A       pins ADDED TO this new net
+                                 J2.4           R11.1          U3.30          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  XA           pins ADDED TO this new net
+                                 U2.2           U3.35          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  XABAR        pins ADDED TO this new net
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/USER/DOWNLOADS/SCHM/allegro/AAST_BOARD V1.brd                      |
+|                                                    Mon Nov 27 10:56:43 2023  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 U2.10          U3.37          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  XB           pins ADDED TO this new net
+                                 U2.7           U3.36          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  XBBAR        pins ADDED TO this new net
+                                 U2.15          U3.38          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  XMOTOR_COMMON pins ADDED TO this new net
+                                 J1.2           J1.5           U1.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  XMOTOR_ENABLE pins ADDED TO this new net
+                                 R2.1           U1.1           U2.1           
+                                 U2.9           U3.51          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  Y+_R_A       pins ADDED TO this new net
+                                 J2.5           R13.1          U3.31          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  Y-_R_A       pins ADDED TO this new net
+                                 J2.6           R14.1          U3.32          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  YA           pins ADDED TO this new net
+                                 U3.39          U4.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  YABAR        pins ADDED TO this new net
+                                 U3.41          U4.10          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  YB           pins ADDED TO this new net
+                                 U3.40          U4.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  YBBAR        pins ADDED TO this new net
+                                 U3.42          U4.15          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  YMOTOR_COMMON pins ADDED TO this new net
+                                 J3.2           J3.5           U1.11          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  YMOTOR_ENABLE pins ADDED TO this new net
+                                 R1.1           U1.9           U3.50          
+                                 U4.1           U4.9           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/USER/DOWNLOADS/SCHM/allegro/AAST_BOARD V1.brd                      |
+|                                                    Mon Nov 27 10:56:43 2023  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ ATMEGA128-16AU_DIP64_9_ATMEGA12
+ HEADER 2_COLHEADER2_GUN
+ HEADER 2_COLHEADER2_POWERCON
+ HEADER 4_COLHEADER4_FANCON
+ HEADER 6_COLHEADER6_XMOTOR
+ HEADER 6_COLHEADER6_YMOTOR
+ HEADER 10_COLHEADER10_CONTROLER
+ HEADER 10_COLHEADER10_R_A_TRANS
+ L293D_DIP16_3_L293D
+ LED_COLLED_LED
+ LM35/SO_1_TO92_LM35/SO
+ R_RES400_1K
+ R_RES400_10K
+ R_RES400_330
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/USER/DOWNLOADS/SCHM/allegro/AAST_BOARD V1.brd                      |
+|                                                    Mon Nov 27 10:56:43 2023  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ D1                  LED_COLLED_LED        
+ D2                  LED_COLLED_LED        
+ D3                  LED_COLLED_LED        
+ J1                  HEADER 6_COLHEADER6_XMOTOR 
+ J2                  HEADER 10_COLHEADER10_R_A_TRANS 
+ J3                  HEADER 6_COLHEADER6_YMOTOR 
+ J4                  HEADER 10_COLHEADER10_CONTROLER 
+ J5                  HEADER 2_COLHEADER2_GUN 
+ J6                  HEADER 4_COLHEADER4_FANCON 
+ J7                  HEADER 2_COLHEADER2_POWERCON 
+ R1                  R_RES400_1K           
+ R2                  R_RES400_1K           
+ R3                  R_RES400_1K           
+ R4                  R_RES400_1K           
+ R5                  R_RES400_1K           
+ R6                  R_RES400_1K           
+ R7                  R_RES400_1K           
+ R8                  R_RES400_1K           
+ R9                  R_RES400_10K          
+ R10                 R_RES400_1K           
+ R11                 R_RES400_1K           
+ R12                 R_RES400_1K           
+ R13                 R_RES400_1K           
+ R14                 R_RES400_1K           
+ R15                 R_RES400_1K           
+ R16                 R_RES400_330          
+ R17                 R_RES400_330          
+ R18                 R_RES400_330          
+ U1                  L293D_DIP16_3_L293D   
+ U2                  L293D_DIP16_3_L293D   
+ U3                  ATMEGA128-16AU_DIP64_9_ATMEGA12 
+ U4                  L293D_DIP16_3_L293D   
+ U5                  L293D_DIP16_3_L293D   
+ U6                  LM35/SO_1_TO92_LM35/SO 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/USER/DOWNLOADS/SCHM/allegro/AAST_BOARD V1.brd                      |
+|                                                    Mon Nov 27 10:56:43 2023  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ D1.1                           PRIM_FILE      .\pstchip.dat
+ D2.1                           PRIM_FILE      .\pstchip.dat
+ D3.1                           PRIM_FILE      .\pstchip.dat
+ J1.6                           PRIM_FILE      .\pstchip.dat
+ J2.9                           PRIM_FILE      .\pstchip.dat
+ J3.6                           PRIM_FILE      .\pstchip.dat
+ J4.9                           PRIM_FILE      .\pstchip.dat
+ J5.2                           PRIM_FILE      .\pstchip.dat
+ J6.4                           PRIM_FILE      .\pstchip.dat
+ J7.2                           PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ R4.2                           PRIM_FILE      .\pstchip.dat
+ R5.2                           PRIM_FILE      .\pstchip.dat
+ R6.2                           PRIM_FILE      .\pstchip.dat
+ R7.2                           PRIM_FILE      .\pstchip.dat
+ R8.2                           PRIM_FILE      .\pstchip.dat
+ R9.2                           PRIM_FILE      .\pstchip.dat
+ R10.2                          PRIM_FILE      .\pstchip.dat
+ R11.2                          PRIM_FILE      .\pstchip.dat
+ R12.2                          PRIM_FILE      .\pstchip.dat
+ R13.2                          PRIM_FILE      .\pstchip.dat
+ R14.2                          PRIM_FILE      .\pstchip.dat
+ R15.2                          PRIM_FILE      .\pstchip.dat
+ R16.2                          PRIM_FILE      .\pstchip.dat
+ R17.2                          PRIM_FILE      .\pstchip.dat
+ R18.2                          PRIM_FILE      .\pstchip.dat
+ U1.16                          PRIM_FILE      .\pstchip.dat
+ U2.16                          PRIM_FILE      .\pstchip.dat
+ U3.20                          PRIM_FILE      .\pstchip.dat
+ U4.16                          PRIM_FILE      .\pstchip.dat
+ U5.16                          PRIM_FILE      .\pstchip.dat
+ U6.1                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/USER/DOWNLOADS/SCHM/allegro/AAST_BOARD V1.brd                      |
+|                                                    Mon Nov 27 10:56:43 2023  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|------------------------------------------------------------------------------|
+|       Nets changed          :     161                                        |
+|       Comp definitions added:      14                                        |
+|       Components added      :      34                                        |
+|       Slot property added   :      34                                        |
+|                                                                              |
+|   Total ECO changes reported:     243                                        |
+|------------------------------------------------------------------------------|
